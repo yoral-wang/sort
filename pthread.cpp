@@ -15,6 +15,7 @@ void func1(void){
 
 int main(){
     thread t1(func1);
+    thread t2(func1);
     for(int i=0;i<10;i++)
         share_ptr("main thread",i);
 
