@@ -1,15 +1,15 @@
 # sort
 sort algorithm
-冒泡
-选择
-插入
-希尔
-归并
-快排
-堆排
-计数
-桶排
-基数
+1.buble
+2.select
+3.insert
+4.shell
+5.qiuck
+6.merge
+7.heap
+8.count
+9.tocket
+10.jishu
 
 
 
