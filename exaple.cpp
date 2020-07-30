@@ -1,3 +1,6 @@
+//给定一个由0和1组成的二维矩阵，求解其中的连通域的数量
+//所谓连通域，就是由1组成的一个区域，其中每两个1的位置是一个四邻域的关系
+
 #include<iostream>
 #include<algorithm>
 #include<vector>

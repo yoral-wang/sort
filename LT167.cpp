@@ -1,3 +1,6 @@
+//两数之和
+//给定升序数组，找到和为目标值的两个元素的下标并返回，没有则返回{-1,-1}
+
 #include<iostream>
 #include<vector>
 using std::cout;
